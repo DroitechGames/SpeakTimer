@@ -1,0 +1,10 @@
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\obj\x86\Debug\SpeakTimer.Form1.resources
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\obj\x86\Debug\SpeakTimer.Properties.Resources.resources
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\obj\x86\Debug\SpeakTimer.csproj.GenerateResource.Cache
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\bin\Debug\SpeakTimer.exe
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\bin\Debug\SpeakTimer.pdb
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\obj\x86\Debug\SpeakTimer.exe
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\obj\x86\Debug\SpeakTimer.pdb
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\bin\Debug\ThreadSafe.CrossThreading.dll
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\bin\Debug\ThreadSafe.CrossThreading.pdb
+F:\Desktop Dev\Droitech Games\SpeakTimer\SpeakTimer\obj\x86\Debug\SpeakTimer.csprojResolveAssemblyReference.cache
